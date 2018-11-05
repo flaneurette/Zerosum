@@ -26,4 +26,4 @@ First run the indexing service:
 Set: $index_files = false;
 To: $index_files = true;
 
-That will run the index and the database will be populated with hashed to compare against.
+That will run the index and the database will be populated with hashes to compare against.
